@@ -1,0 +1,14 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = emolear
+	email = erinoleary2010@gmail.com
+[credential "https://git.bootcampcontent.com"]
+	provider = generic
+[gui]
+	recentrepo = C:/Users/erino/OneDrive/Desktop/UC Berkeley Fintech Bootcamp/fintech_homework
+[push]
+	default = current
