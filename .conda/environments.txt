@@ -1,4 +1,0 @@
-C:\Users\erino\anaconda3
-C:\Users\erino\anaconda3\envs\python=3.10
-C:\Users\erino\anaconda3\envs\mydev
-C:\Users\erino\anaconda3\envs\alpacaenv
